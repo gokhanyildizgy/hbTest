@@ -1,0 +1,7 @@
+Login:
+  email: id=email
+  password: id=password
+  login_button: css:#form-login > div.form-actions > button
+Search:
+  productSearch: id=productSearch
+  buttonProductSearch: id=buttonProductSearch
